@@ -13,11 +13,6 @@ O Google Earth Pro é uma aplicação de desktop gratuita que oferece recursos a
 
 ## Todos os mapas do meu portifólio: :heavy_check_mark:
 
-## Área para instalação de um condomínio no município de Alagoinhas.
-
- ![alt text](Inputs/Mapa1.jpg)
- *Fonte: Gustavo Rocha.*
-
 # Mapa de Supressão Vegetal
 ***Descrição:*** Mapas que mostram áreas onde houve a remoção da cobertura florestal ao longo do tempo.
 
