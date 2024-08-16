@@ -1,16 +1,17 @@
-# Exibindo mapas e explicando um pouco sobre GOOGLE EARTH PRO
+# Exibindo mapas e explicando um pouco sobre GOOGLE EARTH PRO :bulb::books:
     
 
 Através desse Arquivo markdown exibirei alguns dos meus projetos de mapas autorais no Google Earth Pro.
 
 ## O que é o Google Earth Pro :writing_hand:
 
-    O Google Earth Pro é uma aplicação de desktop gratuita que oferece recursos avançados para usuários com necessidades específicas. Com este aplicativo, você pode importar e exportar dados GIS e explorar imagens históricas. A versão mais recente do aplicativo está disponível em PC, Mac ou Linux. Para instalá-lo, basta baixar o arquivo .exe do [Site oficial] (https://www.google.com/earth/about/versions/) e executá-lo - a instalação é rápida e simples.
+O Google Earth Pro é uma aplicação de desktop gratuita que oferece recursos avançados para usuários com necessidades específicas. Com este aplicativo, você pode importar e exportar dados GIS e explorar imagens históricas. A versão mais recente do aplicativo está disponível em PC, Mac ou Linux. Para instalá-lo, basta baixar o arquivo .exe do [Site oficial](https://www.google.com/earth/about/versions/) e executá-lo a instalação é rápida e simples.
+    
 
 ![alt text](Inputs/img0.8.png)
 
 
-## Todos os mapas do meu portifólio: 
+## Todos os mapas do meu portifólio: :heavy_check_mark:
 
 ## Área para instalação de um condomínio no município de Alagoinhas.
 
@@ -28,8 +29,8 @@ Através desse Arquivo markdown exibirei alguns dos meus projetos de mapas autor
 
 ## Mapa de Supressão Vegetal - 02-2008
 
- ![alt text](<Inputs/Mapa de desmatamento.1 - 02-2008.jpg>)
-
+![alt text](<Inputs/Mapa de desmatamento.1 - 02-2008.jpg>)
+*Fonte: Gustavo Rocha*
 
 Ocorreu uma supressão com um total de área de 161,167 m²
 
@@ -37,6 +38,7 @@ Ocorreu uma supressão com um total de área de 161,167 m²
 
 ![alt text](<Inputs/Mapa de desmatamento.2 - 05-2014.jpg>)
 *Fonte: Gustavo Rocha*
+
 Ocorreu uma supressão com um total de área de 257,454 m²
 
 ## Mapa de Supressão Vegetal - 04-2020
@@ -57,15 +59,19 @@ Entre 2003 e 2020 a área sofreu um total de 586,24 m² de supressão de vegeta�
 
 ## Mapa de Contaminação de Área - 01-2019
 ![alt text](<Inputs/Barragem de Brumadinho 01_2019.jpg>)
+*Fonte: Gustavo Rocha*
 
 ## Mapa de Contaminação de Área - 02-2019
 ![alt text](<Inputs/Barragem de Brumadinho 02_2019.jpg>)
+*Fonte: Gustavo Rocha*
 
 ## Mapa de Contaminação de Área - 07-2022
 ![alt text](<Inputs/Barragem de Brumadinho 07_2022.jpg>)
+*Fonte: Gustavo Rocha*
 
 ## Mapa de Contaminação de Área - 02-2024
 ![alt text](<Inputs/Barragem de Brumadinho 02_2024.jpg>)
+*Fonte: Gustavo Rocha*
 
 Construída em 1976 para a contenção de rejeitos gerados no beneficiamento do minério de Ferro na Mina Córrego do Feijão. O rompimento da barragem em Brumadinho, ocorrido em janeiro de 2019, resultou em uma das maiores catástrofes ambientais e humanas do Brasil. A liberação de uma enorme quantidade de rejeitos de mineração devastou a região, causando perda de vidas, destruição de comunidades e graves impactos ao meio ambiente. A lama tóxica que se espalhou pela área contaminou o solo, corpos d'água e ecossistemas, deixando um rastro de degradação que exigiu respostas urgentes para recuperação. A barragem possuia 86 metros de altura na data do rompimento. O rejeito é formado basicamente por ferro, sílica e água.
 
